@@ -368,7 +368,7 @@ sắp xếp Merge Sort.
    Phát triển Web: Python có các framework mạnh mẽ như Django và Flask để xây dựng các ứng dụng web.
    Khoa học dữ liệu và AI: Python là ngôn ngữ phổ biến trong khoa học dữ liệu nhờ vào thư viện như Pandas, NumPy, và Matplotlib. Nó cũng được sử dụng rộng rãi trong trí tuệ nhân tạo và học máy.
    Tự động hóa: Python thường được dùng để tự động hóa các tác vụ lặp đi lặp lại, xử lý tệp, và tương tác với các hệ thống bên ngoài.
-########## Câu hỏi:
+######### Câu hỏi:
    Câu 1: Câu hỏi chọn đáp án
       Câu hỏi: Trong Python, cấu trúc nào dưới đây được sử dụng để bắt lỗi và xử lý ngoại lệ?
       A) for
